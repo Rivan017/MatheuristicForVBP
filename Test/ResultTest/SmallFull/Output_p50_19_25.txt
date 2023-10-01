@@ -1,0 +1,14 @@
+solution status: node limit reached
+objective value:                                    3
+x#2                                                 1 	(obj:0)
+x#5                                                 1 	(obj:0)
+x#6                                                 1 	(obj:0)
+x#8                                                 1 	(obj:0)
+x#9                                                 1 	(obj:0)
+x#10                                                1 	(obj:0)
+x#13                                                1 	(obj:0)
+x#14                                                1 	(obj:0)
+x#15                                                1 	(obj:0)
+z#10                                                1 	(obj:1)
+z#14                                                1 	(obj:1)
+z#15                                                1 	(obj:1)

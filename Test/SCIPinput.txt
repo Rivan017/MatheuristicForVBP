@@ -1,0 +1,4 @@
+read C:\Users\Rivan\Documents\Uni\Tesi\RICOPstuff\Test\VWmodelV2.zpl
+set limits nodes 1
+optimize
+write solution C:\Users\Rivan\Documents\Uni\Tesi\RICOPstuff\Test\out.txt

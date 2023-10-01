@@ -1,0 +1,15 @@
+read C:\Users\Rivan\Documents\Uni\Tesi\RICOPstuff\VWmodelV2.zpl
+set limits nodes 1
+optimize
+write solution C:\Users\Rivan\Documents\Uni\Tesi\RICOPstuff\out.txt
+
+
+"ProgramPath" < "Inputfile"
+LINKS
+https://zimpl.zib.de/download/zimpl.pdf
+https://github.com/scipopt/JSCIPOpt
+https://scipopt.org/doc/html/
+
+DOWNLOAD
+https://www.scipopt.org/#download\
+https://www.scipopt.org/download.php?fname=SCIPOptSuite-8.0.4-win64-VS15.exe

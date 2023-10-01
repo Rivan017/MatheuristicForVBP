@@ -1,0 +1,15 @@
+solution status: optimal solution found
+objective value:                                    2
+x#8                                                 1 	(obj:0)
+x#9                                                 1 	(obj:0)
+x#12                                                1 	(obj:0)
+x#13                                                1 	(obj:0)
+x#14                                                1 	(obj:0)
+x#15                                                1 	(obj:0)
+x#16                                                1 	(obj:0)
+x#18                                                1 	(obj:0)
+x#19                                                1 	(obj:0)
+x#20                                                1 	(obj:0)
+x#21                                                1 	(obj:0)
+z#14                                                1 	(obj:1)
+z#18                                                1 	(obj:1)
